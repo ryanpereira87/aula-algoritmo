@@ -6,6 +6,9 @@ if(n1>n2){
   if(n1>n3){ 
     console.log("O resultado é: ",n1)
   }
+  else{
+  console.log("O resultado é: ", n3)
+}
 }
 else if(n2>n3){
     console.log("O resultado é: ", n2)
